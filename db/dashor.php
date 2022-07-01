@@ -47,7 +47,7 @@ include('protect.php');
             <h1 id="logo">dev.economie$</h1>
             <p style="color:white; font-size: 23px;">Olá <?php echo $_SESSION['nome'];?></p>
             <p id=logout>
-            <a href="#" 
+            <a href="./cadastro.php" 
                 class="button new" style="color:white;">+ Adicionar Cliente</a> >
             <a href="logout.php" style="color:white;"><i class='fa fa-sign-out'></i> Sair</a>
     </p>

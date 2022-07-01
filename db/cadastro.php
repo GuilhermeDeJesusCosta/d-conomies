@@ -59,7 +59,7 @@
             <p>
                 <input type="submit" value="Cadastrar-se">
 
-                <input type="button" value="Tenho uma Conta">
+                <a href="./dashor.php"><input type="button" value="Tenho uma Conta"></a>
 
             </p>
 
